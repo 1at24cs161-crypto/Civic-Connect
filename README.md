@@ -183,3 +183,4 @@ CivicConnect applies modular programming: `main.py` coordinates the workflow, an
 6. Use the test suite to demonstrate overdue escalation, resolved-item protection, and repeat-escalation protection without waiting three real days.
 7. Show all complaints, department-wise views, statistics, and the persisted `data/complaints.json`.
 "# CivicConnect" 
+"# Civic-Connect" 
